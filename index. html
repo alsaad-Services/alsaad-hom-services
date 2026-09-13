@@ -81,7 +81,39 @@
     <p><strong>05702356653</strong></p>
     <a class="btn" href="https://wa.me/9665702356653">اطلب الخدمة الآن</a>
   </section>
-</main>
+</main><section id="articles" style="padding:40px 20px;background:#f4f8f6;">
+  <h2 style="text-align:center;color:#087f5b;">
+    مقالات ونصائح منزلية
+  </h2>
+
+  <article style="background:white;padding:20px;margin:20px auto;max-width:900px;border-radius:12px;">
+    <h3 style="color:#087f5b;">أفضل طرق مكافحة الحشرات في المنزل</h3>
+    <p>
+      تساعد النظافة المستمرة وإغلاق الشقوق والتخلص من بقايا الطعام
+      على تقليل انتشار الحشرات. وعند ظهور الصراصير أو النمل أو البعوض
+      يُفضّل الاستعانة بفريق متخصص يستخدم مواد مناسبة وآمنة مع الالتزام
+      بتعليمات السلامة.
+    </p>
+  </article>
+
+  <article style="background:white;padding:20px;margin:20px auto;max-width:900px;border-radius:12px;">
+    <h3 style="color:#087f5b;">أهمية تنظيف خزانات المياه وتعقيمها</h3>
+    <p>
+      يجب تنظيف خزانات المياه بشكل دوري لإزالة الرواسب والأوساخ،
+      مع فحص الغطاء والعوامة والتأكد من عدم وجود تسربات. ويساعد التعقيم
+      الصحيح للخزان على المحافظة على جودة المياه وتقليل احتمالات التلوث.
+    </p>
+  </article>
+
+  <article style="background:white;padding:20px;margin:20px auto;max-width:900px;border-radius:12px;">
+    <h3 style="color:#087f5b;">متى يحتاج المكيف إلى تنظيف وصيانة؟</h3>
+    <p>
+      من علامات حاجة المكيف إلى التنظيف ضعف التبريد، وارتفاع استهلاك
+      الكهرباء، وظهور روائح غير مرغوبة أو صدور أصوات غير معتادة.
+      يساعد تنظيف الفلاتر والملفات وفحص تصريف المياه على تحسين أداء المكيف.
+    </p>
+  </article>
+</section>
 
 <footer>
   © شركة السعد للخدمات المنزلية - جدة ومكة
